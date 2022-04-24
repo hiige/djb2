@@ -1,0 +1,3 @@
+This tiny program prints each of its argument proceeded by its djb2 hash.
+Each hash is accumulated in an unsigned long.
+It is useful in scripts for generating tables and switch statements.
